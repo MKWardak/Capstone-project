@@ -1,4 +1,3 @@
-@CompleteTest
 Feature: Retail Application Account Feature
 
   Background: 
@@ -8,7 +7,6 @@ Feature: Retail Application Account Feature
     And User click on login button
     And User should be logged in into Account
 	
-	 @smoke
   Scenario Outline: Verify User can update Profile Information
     When User click on Account option
     And User update Name "<name>" and Phone "<phoneNumber>"

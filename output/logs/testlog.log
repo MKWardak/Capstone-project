@@ -262,3 +262,94 @@
 2023-02-17 14:35:04,035 - logger_File -INFO - user updated Name and Phone values 
 2023-02-17 14:35:04,235 - logger_File -INFO - user clicked on Update button
 2023-02-17 14:35:05,228 - logger_File -INFO - user profile information updated
+2023-02-23 12:25:56,594 - logger_File -INFO - user is on retail website
+2023-02-23 12:25:56,668 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 12:25:56,846 - logger_File -INFO - User clicked on Sign in Option
+2023-02-23 12:25:57,131 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-02-23 12:25:57,219 - logger_File -INFO - user clicked on login button
+2023-02-23 12:25:58,121 - logger_File -INFO - user clicked on Account option
+2023-02-23 12:25:58,478 - logger_File -INFO - user updated Name and Phone values 
+2023-02-23 12:25:58,693 - logger_File -INFO - user clicked on Update button
+2023-02-23 12:25:59,839 - logger_File -INFO - user profile information updated
+2023-02-23 12:26:07,597 - logger_File -INFO - user is on retail website
+2023-02-23 12:26:07,598 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 12:26:07,740 - logger_File -INFO - User clicked on Sign in Option
+2023-02-23 12:26:07,973 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-02-23 12:26:08,046 - logger_File -INFO - user clicked on login button
+2023-02-23 12:26:09,185 - logger_File -INFO - user clicked on Account option
+2023-02-23 12:26:09,504 - logger_File -INFO - user updated Name and Phone values 
+2023-02-23 12:26:09,614 - logger_File -INFO - user clicked on Update button
+2023-02-23 12:26:10,555 - logger_File -INFO - user profile information updated
+2023-02-23 12:26:16,098 - logger_File -INFO - user is on retail website
+2023-02-23 12:26:16,099 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 12:26:16,329 - logger_File -INFO - user searched for product pokemon
+2023-02-23 12:26:16,488 - logger_File -INFO - the Product is displayed on home page
+2023-02-23 14:25:55,790 - logger_File -INFO - user is on retail website
+2023-02-23 14:25:55,801 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 14:25:55,904 - logger_File -INFO - User clicked on All section
+2023-02-23 14:28:29,001 - logger_File -INFO - user is on retail website
+2023-02-23 14:28:29,015 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 14:28:29,134 - logger_File -INFO - User clicked on All section
+2023-02-23 14:30:04,225 - logger_File -INFO - user is on retail website
+2023-02-23 14:30:04,238 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 14:30:04,358 - logger_File -INFO - User clicked on All section
+2023-02-23 15:34:56,269 - logger_File -INFO - user is on retail website
+2023-02-23 15:34:56,277 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 15:34:56,377 - logger_File -INFO - User clicked on All section
+2023-02-23 16:07:01,726 - logger_File -INFO - user is on retail website
+2023-02-23 16:07:01,739 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 16:07:01,883 - logger_File -INFO - user clicked on All section
+2023-02-23 16:07:01,972 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-23 16:07:02,013 - logger_File -INFO - Computers is equal to Computers
+2023-02-23 16:07:02,046 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-23 16:07:02,080 - logger_File -INFO - Sports is equal to Sports
+2023-02-23 16:07:02,112 - logger_File -INFO - Automative is equal to Automative
+2023-02-23 16:10:06,343 - logger_File -INFO - user is on retail website
+2023-02-23 16:10:06,348 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 16:10:06,435 - logger_File -INFO - user clicked on All section
+2023-02-23 16:10:06,520 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-23 16:10:06,568 - logger_File -INFO - Computers is equal to Computers
+2023-02-23 16:10:06,619 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-23 16:10:06,657 - logger_File -INFO - Sports is equal to Sports
+2023-02-23 16:10:06,700 - logger_File -INFO - Automative is equal to Automative
+2023-02-23 16:12:01,236 - logger_File -INFO - user is on retail website
+2023-02-23 16:12:01,246 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 16:12:01,368 - logger_File -INFO - user clicked on All section
+2023-02-23 16:12:01,419 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-23 16:12:01,458 - logger_File -INFO - Computers is equal to Computers
+2023-02-23 16:12:01,490 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-23 16:12:01,523 - logger_File -INFO - Sports is equal to Sports
+2023-02-23 16:12:01,557 - logger_File -INFO - Automative is equal to Automative
+2023-02-23 16:12:17,014 - logger_File -INFO - user is on retail website
+2023-02-23 16:12:17,025 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 16:12:17,167 - logger_File -INFO - user clicked on All section
+2023-02-23 16:12:17,262 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-23 16:12:17,335 - logger_File -INFO - Computers is equal to Computers
+2023-02-23 16:12:17,368 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-23 16:12:17,408 - logger_File -INFO - Sports is equal to Sports
+2023-02-23 16:12:17,442 - logger_File -INFO - Automative is equal to Automative
+2023-02-23 17:34:55,019 - logger_File -INFO - user is on retail website
+2023-02-23 17:34:55,027 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 17:34:55,200 - logger_File -INFO - user clicked on All section
+2023-02-23 17:34:55,412 - logger_File -INFO - TV & Video is present 
+2023-02-23 17:34:55,463 - logger_File -INFO - Video Games is present 
+2023-02-23 17:34:58,682 - logger_File -INFO - user is on retail website
+2023-02-23 17:34:58,683 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 17:34:58,779 - logger_File -INFO - user clicked on All section
+2023-02-23 17:34:59,023 - logger_File -INFO - Accessories is present 
+2023-02-23 17:34:59,110 - logger_File -INFO - Networking is present 
+2023-02-23 17:35:02,111 - logger_File -INFO - user is on retail website
+2023-02-23 17:35:02,111 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 17:35:02,216 - logger_File -INFO - user clicked on All section
+2023-02-23 17:35:02,426 - logger_File -INFO - Smart Home Lightning is present 
+2023-02-23 17:35:02,527 - logger_File -INFO - Plugs and Outlets is present 
+2023-02-23 17:35:05,479 - logger_File -INFO - user is on retail website
+2023-02-23 17:35:05,480 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 17:35:05,590 - logger_File -INFO - user clicked on All section
+2023-02-23 17:35:05,798 - logger_File -INFO - Athletic Clothing is present 
+2023-02-23 17:35:05,858 - logger_File -INFO - Exercise & Fitness is present 
+2023-02-23 17:35:10,581 - logger_File -INFO - user is on retail website
+2023-02-23 17:35:10,584 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-23 17:35:10,661 - logger_File -INFO - user clicked on All section
+2023-02-23 17:35:11,007 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-02-23 17:35:11,055 - logger_File -INFO - MotorCycle & Powersports is present 

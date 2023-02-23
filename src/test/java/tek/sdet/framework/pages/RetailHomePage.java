@@ -1,5 +1,7 @@
 package tek.sdet.framework.pages;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -41,6 +43,33 @@ public class RetailHomePage extends BaseSetup {
 	
 	@FindBy(xpath ="//a[text()='Account']")
 	public WebElement accountOption;
+	
+	@FindBy(id = "hamburgerBtn")
+	public WebElement allIcon;
+	
+	@FindBy(xpath ="//div[@class='sidebar_content-item']/span")
+	public List<WebElement> sideBarElements;
+	
+	@FindBy(xpath = "//span[text()='Electronics']")
+	public WebElement electronicsSideBar;
+	
+	@FindBy(xpath ="//span[text()='Computers']")
+	public WebElement computersSideBar;
+	
+	@FindBy(xpath="//span[text()='Smart Home']")
+	public WebElement smartHomeSideBar;
+	
+	@FindBy(xpath ="//span[text()='Sports']")
+	public WebElement sportsSideBar;
+	
+	@FindBy(xpath ="//span[text()='Automative']")
+	public WebElement automativeSideBar;
+	
+	@FindBy(xpath ="//div[@class='sidebar_content-item']/span")
+	public List<WebElement> sideBarOptionElements;
+	
+	
+	
 	
 
 }
