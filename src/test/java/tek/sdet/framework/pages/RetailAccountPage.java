@@ -27,6 +27,39 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//div[text()='Personal Information Updated Successfully']")
 	public WebElement personalInfoUpdateSuccessMessage;
 	
+	@FindBy(xpath="//div[@class='account__address-new']")
+	public WebElement addAddressBtn;
+	
+	@FindBy(xpath="//select[@id='countryDropdown']")
+	public WebElement countryDropDown;
+	
+	@FindBy(css=" #fullNameInput")
+	public WebElement addressNameInput;
+	
+	@FindBy(css="#phoneNumberInput")
+	public WebElement addressPhoneNumber;
+	
+	@FindBy(xpath="//input[@id='streetInput']")
+	public WebElement streetAddressOption;
+	
+	@FindBy(xpath="//input[@id='apartmentInput']")
+	public WebElement apartmentAddressInput;
+	
+	@FindBy(css="#cityInput")
+	public WebElement addressCityInput;
+	
+	@FindBy(xpath="//select[@name='state']")
+	public WebElement stateAddressInput;
+	
+	@FindBy(xpath="//input[@id='zipCodeInput']")
+	public WebElement addressZipCodeInput;
+	
+	@FindBy(xpath="//button[@id='addressBtn']")
+	public WebElement addressSubmitButton;
+	
+	@FindBy(xpath=" //div[contains(text(),'Address Added Successfully')]")
+	public WebElement addressMessageSuccessfull;
+	
 	
 
 

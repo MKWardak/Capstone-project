@@ -17,3 +17,14 @@ Feature: Retail Application Account Feature
     | name           | phoneNumber |
     | cat            | 3458796463  |
     | robbit         | 5967538475  |
+    
+    @Address
+    Scenario: Scenario: Verify User can add an Address 
+     When User click on Account option 
+     And User click on Add address option 
+     And user fill new address form with below information 
+     |country|fullName|phoneNumber|streetAddress|apt |city | state |zipCode|
+     |value | value | value | value | value | value | value | value |
+     And User click Add Your Address button 
+     Then a message should be displayed 'Address Added Successfully'
+    

@@ -8,10 +8,10 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@smokeTest",
+		tags = "@Address",
 		features = ("classpath:features"),
 		glue = "tek.sdet.framework",
-		dryRun =false, // after done with dry run set the value to false
+		dryRun =true, // after done with dry run set the value to false
 		plugin = {
 				"pretty",
                 "html:target/htmlReports/cucumber-pretty.html",
