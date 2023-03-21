@@ -353,3 +353,543 @@
 2023-02-23 17:35:10,661 - logger_File -INFO - user clicked on All section
 2023-02-23 17:35:11,007 - logger_File -INFO - Automative Parts & Accessories is present 
 2023-02-23 17:35:11,055 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-03-02 08:33:24,699 - logger_File -INFO - user is on retail website
+2023-03-02 08:33:24,747 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 08:33:24,865 - logger_File -INFO - User clicked on Sign in Option
+2023-03-02 08:33:25,094 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-02 08:33:25,164 - logger_File -INFO - user clicked on login button
+2023-03-02 08:33:25,734 - logger_File -INFO - user clicked on Account option
+2023-03-02 08:33:50,938 - logger_File -INFO - user is on retail website
+2023-03-02 08:33:50,941 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 08:33:51,099 - logger_File -INFO - User clicked on Sign in Option
+2023-03-02 08:33:51,322 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-02 08:33:51,398 - logger_File -INFO - user clicked on login button
+2023-03-02 08:33:51,871 - logger_File -INFO - user clicked on Account option
+2023-03-02 08:33:52,171 - logger_File -INFO - user updated Name and Phone values 
+2023-03-02 08:33:52,287 - logger_File -INFO - user clicked on Update button
+2023-03-02 08:33:52,976 - logger_File -INFO - user profile information updated
+2023-03-02 08:33:55,663 - logger_File -INFO - user is on retail website
+2023-03-02 08:33:55,663 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 08:33:55,825 - logger_File -INFO - User clicked on Sign in Option
+2023-03-02 08:33:56,050 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-02 08:33:56,119 - logger_File -INFO - user clicked on login button
+2023-03-02 08:33:56,593 - logger_File -INFO - user clicked on Account option
+2023-03-02 08:33:56,867 - logger_File -INFO - user updated Name and Phone values 
+2023-03-02 08:33:56,971 - logger_File -INFO - user clicked on Update button
+2023-03-02 08:33:57,615 - logger_File -INFO - user profile information updated
+2023-03-02 08:34:09,174 - logger_File -INFO - user is on retail website
+2023-03-02 08:34:09,175 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 08:34:09,321 - logger_File -INFO - User clicked on Sign in Option
+2023-03-02 08:34:09,545 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-02 08:34:09,624 - logger_File -INFO - user clicked on login button
+2023-03-02 08:34:11,524 - logger_File -INFO - user clicked on Account option
+2023-03-02 08:34:14,743 - logger_File -INFO - user is on retail website
+2023-03-02 08:34:14,745 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 08:34:14,887 - logger_File -INFO - User clicked on Sign in Option
+2023-03-02 08:34:15,116 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-02 08:34:15,181 - logger_File -INFO - user clicked on login button
+2023-03-02 08:34:15,571 - logger_File -INFO - user clicked on Account option
+2023-03-03 09:45:29,019 - logger_File -INFO - user is on retail website
+2023-03-03 09:45:29,048 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:45:29,184 - logger_File -INFO - User clicked on Sign in Option
+2023-03-03 09:45:29,416 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-03 09:45:29,491 - logger_File -INFO - user clicked on login button
+2023-03-03 09:45:30,321 - logger_File -INFO - user clicked on Account option
+2023-03-03 09:46:05,548 - logger_File -INFO - user is on retail website
+2023-03-03 09:46:05,552 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:46:05,675 - logger_File -INFO - User clicked on Sign in Option
+2023-03-03 09:46:05,900 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-03 09:46:05,986 - logger_File -INFO - user clicked on login button
+2023-03-03 09:46:06,643 - logger_File -INFO - user clicked on Account option
+2023-03-03 09:53:01,778 - logger_File -INFO - user is on retail website
+2023-03-03 09:53:01,781 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:53:01,913 - logger_File -INFO - User clicked on Sign in Option
+2023-03-03 09:53:02,215 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-03 09:53:02,295 - logger_File -INFO - user clicked on login button
+2023-03-03 09:56:05,470 - logger_File -INFO - user is on retail website
+2023-03-03 09:56:05,492 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:56:05,634 - logger_File -INFO - User clicked on Sign in Option
+2023-03-03 09:56:05,867 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-03 09:56:05,950 - logger_File -INFO - user clicked on login button
+2023-03-03 09:56:06,382 - logger_File -INFO - user clicked on Account option
+2023-03-03 09:56:13,997 - logger_File -INFO - Password Updated Successfully
+2023-03-06 09:21:44,272 - logger_File -INFO - user is on retail website
+2023-03-06 09:21:44,364 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 09:21:44,511 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 09:21:44,787 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 09:21:44,870 - logger_File -INFO - user clicked on login button
+2023-03-06 09:22:01,855 - logger_File -INFO - user is on retail website
+2023-03-06 09:22:01,857 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 09:22:02,029 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 09:22:02,267 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 09:22:02,360 - logger_File -INFO - user clicked on login button
+2023-03-06 09:22:20,701 - logger_File -INFO - user is on retail website
+2023-03-06 09:22:20,716 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 09:22:20,884 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 09:22:21,114 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 09:22:21,187 - logger_File -INFO - user clicked on login button
+2023-03-06 09:22:39,016 - logger_File -INFO - user is on retail website
+2023-03-06 09:22:39,018 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 09:22:39,198 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 09:22:39,425 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 09:22:39,503 - logger_File -INFO - user clicked on login button
+2023-03-06 09:43:11,949 - logger_File -INFO - user is on retail website
+2023-03-06 09:43:11,952 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 09:43:12,143 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 09:43:12,378 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 09:43:12,449 - logger_File -INFO - user clicked on login button
+2023-03-06 10:07:03,722 - logger_File -INFO - user is on retail website
+2023-03-06 10:07:03,746 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 10:07:03,884 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 10:07:04,144 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Rai@2023
+2023-03-06 10:07:04,252 - logger_File -INFO - user clicked on login button
+2023-03-06 10:11:50,333 - logger_File -INFO - user is on retail website
+2023-03-06 10:11:50,336 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 10:11:50,471 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 10:11:50,708 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-06 10:11:50,792 - logger_File -INFO - user clicked on login button
+2023-03-06 10:11:51,456 - logger_File -INFO - user clicked on Account option
+2023-03-06 10:14:45,449 - logger_File -INFO - user is on retail website
+2023-03-06 10:14:45,454 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-06 10:14:45,588 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 10:14:45,831 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-06 10:14:45,923 - logger_File -INFO - user clicked on login button
+2023-03-06 10:14:46,552 - logger_File -INFO - user clicked on Account option
+2023-03-06 10:15:01,199 - logger_File -INFO - Payment Method added sucessfully
+2023-03-09 07:23:20,783 - logger_File -INFO - user is on retail website
+2023-03-09 07:23:20,832 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 07:23:20,983 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 07:23:21,253 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-09 07:23:21,379 - logger_File -INFO - user clicked on login button
+2023-03-09 07:23:21,818 - logger_File -INFO - user clicked on Account option
+2023-03-09 07:54:22,327 - logger_File -INFO - user is on retail website
+2023-03-09 07:54:22,333 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 07:54:22,480 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 07:54:22,758 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-09 07:54:22,845 - logger_File -INFO - user clicked on login button
+2023-03-09 07:54:23,350 - logger_File -INFO - user clicked on Account option
+2023-03-09 07:57:14,445 - logger_File -INFO - user is on retail website
+2023-03-09 07:57:14,449 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 07:57:14,603 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 07:57:14,883 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-09 07:57:14,976 - logger_File -INFO - user clicked on login button
+2023-03-09 07:57:15,731 - logger_File -INFO - user clicked on Account option
+2023-03-09 07:59:22,979 - logger_File -INFO - user is on retail website
+2023-03-09 07:59:22,986 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 07:59:23,145 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 07:59:23,416 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-09 07:59:23,525 - logger_File -INFO - user clicked on login button
+2023-03-09 07:59:24,211 - logger_File -INFO - user clicked on Account option
+2023-03-09 08:00:50,724 - logger_File -INFO - user is on retail website
+2023-03-09 08:00:50,727 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 08:00:50,909 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 08:00:51,203 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-09 08:00:51,308 - logger_File -INFO - user clicked on login button
+2023-03-09 08:00:52,085 - logger_File -INFO - user clicked on Account option
+2023-03-09 08:01:06,302 - logger_File -INFO - Payment Method updated sucessfully
+2023-03-10 09:15:17,391 - logger_File -INFO - user is on retail website
+2023-03-10 09:15:17,397 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-10 09:15:17,522 - logger_File -INFO - User clicked on Sign in Option
+2023-03-10 09:15:17,812 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-10 09:15:17,897 - logger_File -INFO - user clicked on login button
+2023-03-10 09:15:18,454 - logger_File -INFO - user clicked on Account option
+2023-03-10 09:39:28,857 - logger_File -INFO - user is on retail website
+2023-03-10 09:39:28,862 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-10 09:39:28,996 - logger_File -INFO - User clicked on Sign in Option
+2023-03-10 09:39:29,251 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-10 09:39:29,334 - logger_File -INFO - user clicked on login button
+2023-03-10 09:39:30,562 - logger_File -INFO - user clicked on Account option
+2023-03-11 09:24:08,541 - logger_File -INFO - user is on retail website
+2023-03-11 09:24:08,572 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-11 09:24:08,892 - logger_File -INFO - User clicked on Sign in Option
+2023-03-11 09:24:09,186 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-11 09:24:09,279 - logger_File -INFO - user clicked on login button
+2023-03-11 09:24:09,676 - logger_File -INFO - user clicked on Account option
+2023-03-11 09:34:25,010 - logger_File -INFO - user is on retail website
+2023-03-11 09:34:25,014 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-11 09:34:25,130 - logger_File -INFO - User clicked on Sign in Option
+2023-03-11 09:34:25,399 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-11 09:34:25,498 - logger_File -INFO - user clicked on login button
+2023-03-11 09:34:26,081 - logger_File -INFO - user clicked on Account option
+2023-03-11 09:42:21,411 - logger_File -INFO - user is on retail website
+2023-03-11 09:42:21,416 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-11 09:42:21,574 - logger_File -INFO - User clicked on Sign in Option
+2023-03-11 09:42:21,843 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-11 09:42:21,925 - logger_File -INFO - user clicked on login button
+2023-03-11 09:42:22,454 - logger_File -INFO - user clicked on Account option
+2023-03-11 09:50:23,973 - logger_File -INFO - user is on retail website
+2023-03-11 09:50:23,977 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-11 09:50:24,104 - logger_File -INFO - User clicked on Sign in Option
+2023-03-11 09:50:24,363 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-11 09:50:24,440 - logger_File -INFO - user clicked on login button
+2023-03-11 09:50:25,044 - logger_File -INFO - user clicked on Account option
+2023-03-13 08:51:12,605 - logger_File -INFO - user is on retail website
+2023-03-13 08:51:12,645 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 08:51:12,815 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 08:51:13,094 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 08:51:13,183 - logger_File -INFO - user clicked on login button
+2023-03-13 08:51:13,676 - logger_File -INFO - user clicked on Account option
+2023-03-13 08:56:23,610 - logger_File -INFO - user is on retail website
+2023-03-13 08:56:23,613 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 08:56:23,745 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 08:56:24,020 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 08:56:24,116 - logger_File -INFO - user clicked on login button
+2023-03-13 08:56:24,680 - logger_File -INFO - user clicked on Account option
+2023-03-13 08:58:33,040 - logger_File -INFO - user is on retail website
+2023-03-13 08:58:33,047 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 08:58:33,199 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 08:58:33,505 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 08:58:33,610 - logger_File -INFO - user clicked on login button
+2023-03-13 08:58:34,146 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:01:38,550 - logger_File -INFO - user is on retail website
+2023-03-13 09:01:38,555 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:01:38,724 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:01:39,143 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:01:39,253 - logger_File -INFO - user clicked on login button
+2023-03-13 09:01:39,709 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:04:02,760 - logger_File -INFO - user is on retail website
+2023-03-13 09:04:02,768 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:04:02,906 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:04:03,169 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:04:03,266 - logger_File -INFO - user clicked on login button
+2023-03-13 09:04:03,786 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:15:54,034 - logger_File -INFO - user is on retail website
+2023-03-13 09:15:54,037 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:15:54,181 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:15:54,463 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:15:54,556 - logger_File -INFO - user clicked on login button
+2023-03-13 09:15:55,059 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:16:43,015 - logger_File -INFO - user is on retail website
+2023-03-13 09:16:43,020 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:16:43,171 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:16:43,459 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:16:43,551 - logger_File -INFO - user clicked on login button
+2023-03-13 09:16:44,096 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:19:02,524 - logger_File -INFO - user is on retail website
+2023-03-13 09:19:02,528 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:19:02,675 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:19:02,966 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:19:03,056 - logger_File -INFO - user clicked on login button
+2023-03-13 09:19:03,519 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:25:49,315 - logger_File -INFO - user is on retail website
+2023-03-13 09:25:49,319 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:25:49,469 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:25:49,740 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:25:49,835 - logger_File -INFO - user clicked on login button
+2023-03-13 09:25:50,338 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:28:21,648 - logger_File -INFO - user is on retail website
+2023-03-13 09:28:21,653 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:28:21,831 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:28:22,131 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:28:22,231 - logger_File -INFO - user clicked on login button
+2023-03-13 09:28:22,732 - logger_File -INFO - user clicked on Account option
+2023-03-13 09:29:54,402 - logger_File -INFO - user is on retail website
+2023-03-13 09:29:54,407 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 09:29:54,556 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 09:29:54,957 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 09:29:55,085 - logger_File -INFO - user clicked on login button
+2023-03-13 09:29:55,615 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:39:12,616 - logger_File -INFO - user is on retail website
+2023-03-13 13:39:12,621 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:39:12,751 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:39:12,982 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:39:13,066 - logger_File -INFO - user clicked on login button
+2023-03-13 13:39:13,665 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:41:56,782 - logger_File -INFO - user is on retail website
+2023-03-13 13:41:56,785 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:41:56,905 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:41:57,139 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:41:57,215 - logger_File -INFO - user clicked on login button
+2023-03-13 13:41:57,882 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:45:38,950 - logger_File -INFO - user is on retail website
+2023-03-13 13:45:38,956 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:45:39,084 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:45:39,327 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:45:39,409 - logger_File -INFO - user clicked on login button
+2023-03-13 13:45:39,846 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:48:24,304 - logger_File -INFO - user is on retail website
+2023-03-13 13:48:24,315 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:48:24,568 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:48:24,857 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:48:24,966 - logger_File -INFO - user clicked on login button
+2023-03-13 13:48:25,470 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:49:49,078 - logger_File -INFO - user is on retail website
+2023-03-13 13:49:49,083 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:49:49,216 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:49:49,465 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:49:49,545 - logger_File -INFO - user clicked on login button
+2023-03-13 13:49:50,017 - logger_File -INFO - user clicked on Account option
+2023-03-13 13:49:57,912 - logger_File -INFO - Address Added Successfully
+2023-03-13 13:53:57,275 - logger_File -INFO - user is on retail website
+2023-03-13 13:53:57,278 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:53:57,392 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 13:53:57,621 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 13:53:57,697 - logger_File -INFO - user clicked on login button
+2023-03-13 13:53:58,289 - logger_File -INFO - user clicked on Account option
+2023-03-13 14:10:08,910 - logger_File -INFO - user is on retail website
+2023-03-13 14:10:08,917 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 14:10:09,035 - logger_File -INFO - User clicked on Sign in Option
+2023-03-13 14:10:09,284 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-13 14:10:09,375 - logger_File -INFO - user clicked on login button
+2023-03-13 14:10:10,002 - logger_File -INFO - user clicked on Account option
+2023-03-15 08:05:01,141 - logger_File -INFO - user is on retail website
+2023-03-15 08:05:01,210 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 08:05:01,838 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 08:05:02,198 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 08:05:02,522 - logger_File -INFO - user clicked on login button
+2023-03-15 08:08:43,579 - logger_File -INFO - user is on retail website
+2023-03-15 08:08:43,587 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 08:08:43,934 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 08:08:44,139 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 08:08:44,408 - logger_File -INFO - user clicked on login button
+2023-03-15 08:10:20,442 - logger_File -INFO - user is on retail website
+2023-03-15 08:10:20,453 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 08:10:20,861 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 08:10:21,088 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 08:10:21,377 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:27,300 - logger_File -INFO - user is on retail website
+2023-03-15 16:34:27,340 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 16:34:27,764 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:27,932 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 16:34:28,216 - logger_File -INFO - user clicked on login button
+2023-03-15 18:53:11,958 - logger_File -INFO - user is on retail website
+2023-03-15 18:53:11,965 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 18:53:12,326 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 18:53:12,600 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 18:53:12,857 - logger_File -INFO - user clicked on login button
+2023-03-15 18:57:57,125 - logger_File -INFO - user is on retail website
+2023-03-15 18:57:57,129 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 18:57:57,544 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 18:57:57,702 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 18:57:57,963 - logger_File -INFO - user clicked on login button
+2023-03-15 19:01:59,433 - logger_File -INFO - user is on retail website
+2023-03-15 19:01:59,437 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:01:59,781 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:01:59,954 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:02:00,220 - logger_File -INFO - user clicked on login button
+2023-03-15 19:28:25,867 - logger_File -INFO - user is on retail website
+2023-03-15 19:28:25,870 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:28:26,208 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:28:26,358 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:28:26,611 - logger_File -INFO - user clicked on login button
+2023-03-15 19:30:45,725 - logger_File -INFO - user is on retail website
+2023-03-15 19:30:45,734 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:30:46,117 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:30:46,370 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:30:46,655 - logger_File -INFO - user clicked on login button
+2023-03-15 19:36:51,276 - logger_File -INFO - user is on retail website
+2023-03-15 19:36:51,279 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:36:51,625 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:36:51,795 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:36:52,054 - logger_File -INFO - user clicked on login button
+2023-03-15 19:39:09,901 - logger_File -INFO - user is on retail website
+2023-03-15 19:39:09,904 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:39:10,263 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:39:10,515 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:39:10,805 - logger_File -INFO - user clicked on login button
+2023-03-15 19:50:46,912 - logger_File -INFO - user is on retail website
+2023-03-15 19:50:46,917 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:50:47,268 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:50:47,488 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:50:47,749 - logger_File -INFO - user clicked on login button
+2023-03-15 19:52:53,101 - logger_File -INFO - user is on retail website
+2023-03-15 19:52:53,104 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:52:53,437 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:52:53,687 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:52:53,997 - logger_File -INFO - user clicked on login button
+2023-03-15 19:55:00,109 - logger_File -INFO - user is on retail website
+2023-03-15 19:55:00,115 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 19:55:00,466 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 19:55:00,632 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 19:55:00,883 - logger_File -INFO - user clicked on login button
+2023-03-15 19:56:03,230 - logger_File -INFO - Order Placed Successfully
+2023-03-15 20:09:17,843 - logger_File -INFO - user is on retail website
+2023-03-15 20:09:17,858 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:09:18,187 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:09:18,452 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:09:18,728 - logger_File -INFO - user clicked on login button
+2023-03-15 20:18:56,885 - logger_File -INFO - user is on retail website
+2023-03-15 20:18:56,889 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:18:57,214 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:18:57,400 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:18:57,656 - logger_File -INFO - user clicked on login button
+2023-03-15 20:28:39,528 - logger_File -INFO - user is on retail website
+2023-03-15 20:28:39,531 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:28:39,857 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:28:40,085 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:28:40,344 - logger_File -INFO - user clicked on login button
+2023-03-15 20:30:32,510 - logger_File -INFO - user is on retail website
+2023-03-15 20:30:32,516 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:30:32,872 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:30:33,086 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:30:33,348 - logger_File -INFO - user clicked on login button
+2023-03-15 20:32:59,311 - logger_File -INFO - user is on retail website
+2023-03-15 20:32:59,316 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:32:59,671 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:32:59,884 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:33:00,140 - logger_File -INFO - user clicked on login button
+2023-03-15 20:36:17,840 - logger_File -INFO - user is on retail website
+2023-03-15 20:36:17,846 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:36:18,172 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:36:18,343 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:36:18,589 - logger_File -INFO - user clicked on login button
+2023-03-15 20:39:40,836 - logger_File -INFO - user is on retail website
+2023-03-15 20:39:40,842 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:39:41,183 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:39:41,400 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:39:41,656 - logger_File -INFO - user clicked on login button
+2023-03-15 20:41:58,788 - logger_File -INFO - user is on retail website
+2023-03-15 20:41:58,793 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:41:59,139 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:41:59,297 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:41:59,562 - logger_File -INFO - user clicked on login button
+2023-03-15 20:44:03,789 - logger_File -INFO - user is on retail website
+2023-03-15 20:44:03,795 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:44:04,143 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:44:04,364 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:44:04,616 - logger_File -INFO - user clicked on login button
+2023-03-15 20:44:56,743 - logger_File -INFO - Order Placed Successfully
+2023-03-15 20:48:52,878 - logger_File -INFO - user is on retail website
+2023-03-15 20:48:52,883 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 20:48:53,236 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 20:48:53,452 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 20:48:53,706 - logger_File -INFO - user clicked on login button
+2023-03-15 21:04:54,689 - logger_File -INFO - user is on retail website
+2023-03-15 21:04:54,694 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 21:04:55,004 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 21:04:55,230 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-15 21:04:55,486 - logger_File -INFO - user clicked on login button
+2023-03-16 07:02:37,191 - logger_File -INFO - user is on retail website
+2023-03-16 07:02:37,345 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:02:37,701 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:02:37,911 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:02:38,166 - logger_File -INFO - user clicked on login button
+2023-03-16 07:08:26,706 - logger_File -INFO - user is on retail website
+2023-03-16 07:08:26,715 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:08:27,057 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:08:27,241 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:08:27,498 - logger_File -INFO - user clicked on login button
+2023-03-16 07:10:20,929 - logger_File -INFO - user is on retail website
+2023-03-16 07:10:20,934 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:10:21,270 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:10:21,439 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:10:21,697 - logger_File -INFO - user clicked on login button
+2023-03-16 07:14:27,131 - logger_File -INFO - user is on retail website
+2023-03-16 07:14:27,134 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:14:27,453 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:14:27,627 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:14:27,887 - logger_File -INFO - user clicked on login button
+2023-03-16 07:15:35,969 - logger_File -INFO - user is on retail website
+2023-03-16 07:15:35,973 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:15:36,308 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:15:36,492 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:15:36,749 - logger_File -INFO - user clicked on login button
+2023-03-16 07:19:35,391 - logger_File -INFO - user is on retail website
+2023-03-16 07:19:35,396 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:19:35,726 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:19:35,905 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:19:36,168 - logger_File -INFO - user clicked on login button
+2023-03-16 07:33:42,276 - logger_File -INFO - user is on retail website
+2023-03-16 07:33:42,282 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:33:42,609 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:33:42,789 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:33:43,042 - logger_File -INFO - user clicked on login button
+2023-03-16 07:42:47,010 - logger_File -INFO - user is on retail website
+2023-03-16 07:42:47,014 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:42:47,331 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:42:47,507 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:42:47,765 - logger_File -INFO - user clicked on login button
+2023-03-16 07:48:38,350 - logger_File -INFO - user is on retail website
+2023-03-16 07:48:38,356 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:48:38,680 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:48:38,849 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:48:39,108 - logger_File -INFO - user clicked on login button
+2023-03-16 07:51:46,210 - logger_File -INFO - user is on retail website
+2023-03-16 07:51:46,236 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:51:46,575 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:51:46,750 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:51:47,025 - logger_File -INFO - user clicked on login button
+2023-03-16 07:57:05,532 - logger_File -INFO - user is on retail website
+2023-03-16 07:57:05,537 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 07:57:05,862 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 07:57:06,031 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 07:57:06,290 - logger_File -INFO - user clicked on login button
+2023-03-16 08:04:20,159 - logger_File -INFO - user is on retail website
+2023-03-16 08:04:20,163 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 08:04:20,492 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 08:04:20,674 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 08:04:20,938 - logger_File -INFO - user clicked on login button
+2023-03-16 13:49:53,452 - logger_File -INFO - user is on retail website
+2023-03-16 13:49:53,457 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 13:49:53,930 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 13:49:54,099 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 13:49:54,355 - logger_File -INFO - user clicked on login button
+2023-03-16 15:07:05,523 - logger_File -INFO - user is on retail website
+2023-03-16 15:07:05,530 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:07:05,913 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:07:06,092 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:07:06,358 - logger_File -INFO - user clicked on login button
+2023-03-16 15:11:20,641 - logger_File -INFO - user is on retail website
+2023-03-16 15:11:20,649 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:11:20,992 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:11:21,214 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:11:21,484 - logger_File -INFO - user clicked on login button
+2023-03-16 15:18:15,589 - logger_File -INFO - user is on retail website
+2023-03-16 15:18:15,596 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:18:15,947 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:18:16,131 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:18:16,412 - logger_File -INFO - user clicked on login button
+2023-03-16 15:23:02,767 - logger_File -INFO - user is on retail website
+2023-03-16 15:23:02,895 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:23:03,234 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:23:03,435 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:23:03,697 - logger_File -INFO - user clicked on login button
+2023-03-16 15:23:37,875 - logger_File -INFO - Order Placed Successfully
+2023-03-16 15:35:03,685 - logger_File -INFO - user is on retail website
+2023-03-16 15:35:03,691 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:35:04,043 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:35:04,223 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:35:04,490 - logger_File -INFO - user clicked on login button
+2023-03-16 15:35:19,922 - logger_File -INFO - Order Placed Successfully
+2023-03-16 15:38:55,412 - logger_File -INFO - user is on retail website
+2023-03-16 15:38:55,418 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:38:55,758 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:38:55,932 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:38:56,190 - logger_File -INFO - user clicked on login button
+2023-03-16 15:39:17,484 - logger_File -INFO - Order Placed Successfully
+2023-03-16 15:52:49,199 - logger_File -INFO - user is on retail website
+2023-03-16 15:52:49,206 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-16 15:52:49,561 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 15:52:49,734 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-16 15:52:49,989 - logger_File -INFO - user clicked on login button
+2023-03-20 07:54:22,458 - logger_File -INFO - user is on retail website
+2023-03-20 07:54:22,634 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 07:54:23,526 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 07:54:23,818 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 07:54:24,154 - logger_File -INFO - user clicked on login button
+2023-03-20 07:59:45,527 - logger_File -INFO - user is on retail website
+2023-03-20 07:59:45,531 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 07:59:45,892 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 07:59:46,083 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 07:59:46,344 - logger_File -INFO - user clicked on login button
+2023-03-20 08:03:19,593 - logger_File -INFO - user is on retail website
+2023-03-20 08:03:19,596 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 08:03:19,937 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 08:03:20,159 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 08:03:20,409 - logger_File -INFO - user clicked on login button
+2023-03-20 08:25:24,697 - logger_File -INFO - user is on retail website
+2023-03-20 08:25:24,702 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 08:25:25,057 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 08:25:25,277 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 08:25:25,535 - logger_File -INFO - user clicked on login button
+2023-03-20 08:32:14,715 - logger_File -INFO - user is on retail website
+2023-03-20 08:32:14,720 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 08:32:15,079 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 08:32:15,252 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 08:32:15,514 - logger_File -INFO - user clicked on login button
+2023-03-20 08:52:12,870 - logger_File -INFO - user is on retail website
+2023-03-20 08:52:12,901 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-20 08:52:13,239 - logger_File -INFO - User clicked on Sign in Option
+2023-03-20 08:52:13,416 - logger_File -INFO - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-20 08:52:13,678 - logger_File -INFO - user clicked on login button
+2023-03-20 08:52:19,803 - logger_File -INFO - Your review was added successfully
