@@ -904,3 +904,9 @@
 2023-03-21 08:59:27,609 [main] INFO logger_File - user entered email mariamkamran47@gmail.com and password Afghanistan@20
 2023-03-21 08:59:27,863 [main] INFO logger_File - user clicked on login button
 2023-03-21 08:59:33,979 [main] INFO logger_File - Your review was added successfully
+2023-03-21 18:19:29,843 [main] INFO logger_File - user is on retail website
+2023-03-21 18:19:29,849 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-21 18:19:30,481 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-21 18:19:30,879 [main] INFO logger_File - user entered email mariamkamran47@gmail.com and password Afghanistan@20
+2023-03-21 18:19:31,207 [main] INFO logger_File - user clicked on login button
+2023-03-21 18:19:37,268 [main] INFO logger_File - Your review was added successfully
