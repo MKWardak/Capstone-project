@@ -124,6 +124,6 @@ Feature: This feature is use for testing UI of Retail page
     And User click on Orders section
     And User click on first order in list
     And User click on Review button
-    And User write Review headline ‘ headline value’ and ‘review text’
+    And User write Review headline ‘headline value’ and ‘review text’
     And User click Add your Review button
     Then a review message should be displayed ‘Your review was added successfully’

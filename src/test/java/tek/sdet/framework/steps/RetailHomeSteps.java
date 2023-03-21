@@ -267,7 +267,7 @@ public class RetailHomeSteps extends CommonUtility {
 	   factory.homePage().reviewBtn.click();
 	}
 
-	@When("User write Review headline ‘ headline value’ and ‘review text’")
+	@When("User write Review headline ‘headline value’ and ‘review text’")
 	public void user_write_review_headline_headline_value_and_review_text() {
 	    factory.homePage().reviewHeadline.sendKeys("headline value");
 	    factory.homePage().writtenReview.sendKeys("review text");
